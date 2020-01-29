@@ -5,7 +5,7 @@
 (print
 (list (list 3 1 7) 6 (list 1 3 2) (car(list 2 2 3)) (list 3 1 5)))
 
-;вывод 3 список полностью
+;вывод 3-го списка полностью
 
 (print
 (nth 2 (list (list 3 1 7) 6 (list 1 3 2) (car(list 2 2 3)) (list 3 1 5))))
